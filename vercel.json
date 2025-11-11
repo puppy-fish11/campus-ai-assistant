@@ -1,0 +1,7 @@
+{
+  "functions": {
+    "pages/api/ask.js": {
+      "maxDuration": 30
+    }
+  }
+}
