@@ -107,7 +107,7 @@ export default function EmbedAI() {
           backgroundColor: '#f6ffed',
           border: '1px solid #b7eb8f',
           borderRadius: '6px',
-          borderLeft: '4px solid '#52c41a'
+          borderLeft: '4px solid #52c41a'
         }}>
           <div style={{ 
             fontWeight: '600', 
